@@ -1,6 +1,2 @@
 print("Hello, World!")
 print("Hello, Python!")
-print("Hello, Vote for Trump!")
-print("Hello, Vote for Biden!")
-print("Hello, Vote for Me!")
-print("Hello, Vote for Grapeape!")
